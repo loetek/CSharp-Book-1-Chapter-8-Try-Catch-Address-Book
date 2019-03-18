@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/AddressBook.deps.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/AddressBook.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/AddressBook.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/AddressBook.dll
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/AddressBook.pdb
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.dll
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/AddressBook.pdb

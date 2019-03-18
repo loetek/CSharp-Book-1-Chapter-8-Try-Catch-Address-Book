@@ -1,0 +1,11 @@
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/tryandCatch.deps.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/tryandCatch.runtimeconfig.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/tryandCatch.runtimeconfig.dev.json
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/tryandCatch.dll
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/bin/Debug/netcoreapp2.2/tryandCatch.pdb
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.csprojAssemblyReference.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.csproj.CoreCompileInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.AssemblyInfoInputs.cache
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.AssemblyInfo.cs
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.dll
+/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/Debug/netcoreapp2.2/tryandCatch.pdb

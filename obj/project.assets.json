@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jdwheeler/workspace/C#/exercises/AddressBook/AddressBook.csproj",
-      "projectName": "AddressBook",
-      "projectPath": "/Users/jdwheeler/workspace/C#/exercises/AddressBook/AddressBook.csproj",
+      "projectUniqueName": "/Users/jdwheeler/workspace/C#/exercises/AddressBook/tryandCatch.csproj",
+      "projectName": "tryandCatch",
+      "projectPath": "/Users/jdwheeler/workspace/C#/exercises/AddressBook/tryandCatch.csproj",
       "packagesPath": "/Users/jdwheeler/.nuget/packages/",
       "outputPath": "/Users/jdwheeler/workspace/C#/exercises/AddressBook/obj/",
       "projectStyle": "PackageReference",
